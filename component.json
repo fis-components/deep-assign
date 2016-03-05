@@ -1,0 +1,11 @@
+{
+    "name": "deep-assign",
+    "description": "Recursive Object.assign()",
+    "repos": "https://github.com/sindresorhus/deep-assign",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "is-obj": "^1.0.0"
+    },
+    "version": "2.0.0"
+}
